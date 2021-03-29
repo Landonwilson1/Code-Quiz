@@ -8,7 +8,7 @@ When the user answers a question incorrectly no points are earned and 10 seconds
 
 The project has been has been published to GitHub pages listed below. 
 
-Link to application https://landonwilson1.github.io/Password-Generator/
+Link to application https://landonwilson1.github.io/Code-Quiz/
 
-![Screenshot of Password Generator](screenshot.png)
+![Screenshots of Quiz](screenshot-quiz.png)(screenshot-quiz1.png)
 
