@@ -10,5 +10,6 @@ The project has been has been published to GitHub pages listed below.
 
 Link to application https://landonwilson1.github.io/Code-Quiz/
 
-![Screenshots of Quiz](screenshot-quiz.png)(screenshot-quiz1.png)
+![Screenshots of Quiz](screenshot-quiz.png)
+![Screenshots of Quiz](screenshot-quiz1.png)
 
